@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4c9884db-bb34-4ae8-92c0-a517fc9e02a9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/database/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/task.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/task.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
@@ -138,7 +138,7 @@
     <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wise_quickstart_wcl" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -162,7 +162,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610746956585</updated>
       <workItem from="1610746957684" duration="195000" />
-      <workItem from="1610754347641" duration="4629000" />
+      <workItem from="1610754347641" duration="6357000" />
     </task>
     <servers />
   </component>
@@ -170,6 +170,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="165" y="170" key="FileChooserDialogImpl" timestamp="1610759402497">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="165" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610759402497" />
     <state x="225" y="335" key="NewPhpFileDialog" timestamp="1610755969959">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

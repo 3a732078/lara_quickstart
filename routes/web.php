@@ -15,15 +15,12 @@ use Illuminate\Http\Request;
 */
 
 Route::get('/', function () {
-
-    //利用model Task由DB的tasks資料表取出資料並排序
-    //暫存 $tasks
-    //可簡化為 $tasks= Task->get();
+    //
     $tasks = Task::orderBy('created_at', 'asc')->get();
 
-    //將取出的資料$tasks傳遞給tasks視圖
-    return view('task', [ 'task' => $tasks ]);
-
+    return view('task', [
+        'task' => $tasks
+    ]);
 });
 
 /* */
