@@ -22,7 +22,7 @@ Route::get('/', function () {
     $tasks = Task::orderBy('created_at', 'asc')->get();
 
     //將取出的資料$tasks傳遞給tasks視圖
-    return view('tasks', [ 'tasks' => $tasks ]);
+    return view('task', [ 'task' => $tasks ]);
 
 });
 
